@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/9356992/insert-a-character-before-and-after-evrey-letter-in-a-string
