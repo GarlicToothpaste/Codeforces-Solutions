@@ -1,4 +1,4 @@
 # Codeforces-Solutions
-Status 10/99
+Status 12/99
 
 ERRATUM: 88A should be 888A
