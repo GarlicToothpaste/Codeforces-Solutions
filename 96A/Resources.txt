@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/11229986/get-string-character-by-index-java
+https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
